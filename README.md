@@ -1,4 +1,4 @@
-# Ссылка: https://kemtatam.github.io/github-api-react/
+# Ссылка: https://kemtatam.github.io/Github-api-react/
 
 Приложение с возможностю искать пользователей Github по нику и добавлять их репозитории в избранное
 
